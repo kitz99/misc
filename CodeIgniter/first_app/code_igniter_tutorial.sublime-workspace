@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"iss",
+				"issue"
+			],
+			[
+				"issue_",
+				"issue_cover"
+			],
+			[
+				"uplo",
+				"upload_data"
+			],
+			[
+				"check",
+				"check_file_upload"
+			],
+			[
+				"publi",
+				"publication_id"
+			],
+			[
+				"public",
+				"publication_name"
+			],
+			[
+				"pu",
+				"publication_form_options"
+			],
+			[
+				"pub",
+				"publication_id"
+			],
+			[
+				"var",
+				"var_export"
+			],
+			[
+				"DB",
+				"DB_TABLE_PK"
+			],
+			[
+				"DB_",
+				"DB_TABLE_PK"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"art",
+				"artistControllers"
+			],
+			[
+				"my",
+				"myNameSpace"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"Snippet: code",
+				"Snippet: code_doc"
+			],
+			[
+				"Snippet: CODE",
+				"Snippet: code_doc"
+			],
+			[
+				"Snippet: php",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/ci/application",
+		"/opt/lampp/htdocs/ci/application/controllers"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/ci/application/controllers/magazine.php",
+		"/opt/lampp/htdocs/ci/application/views/magazine.php",
+		"/opt/lampp/htdocs/ci/application/views/magazine_deleted.php",
+		"/opt/lampp/htdocs/ci/application/views/magazines.php",
+		"/opt/lampp/htdocs/ci/application/views/magazine_form.php",
+		"/opt/lampp/htdocs/ci/application/views/bootstrap/header.php",
+		"/opt/lampp/htdocs/ci/application/views/bootstrap/footer.php",
+		"/opt/lampp/htdocs/ci/application/views/bootstrap/nav.php",
+		"/opt/lampp/htdocs/ci/application/views/magazine_form_succes.php",
+		"/opt/lampp/htdocs/ci/application/models/publication.php",
+		"/opt/lampp/htdocs/ci/application/core/MY_Model.php",
+		"/opt/lampp/htdocs/ci/application/models/issue.php",
+		"/opt/lampp/htdocs/ci/application/core/my_model.php",
+		"/home/bogdan/.config/sublime-text-3/Packages/User/met_doc.sublime-snippet",
+		"/home/bogdan/.config/sublime-text-3/Packages/User/code_doc.sublime-snippet",
+		"/opt/lampp/htdocs/ci/application/.htaccess",
+		"/opt/lampp/htdocs/ci/application/config/routes.php",
+		"/opt/lampp/htdocs/ci/application/config/autoload.php",
+		"/opt/lampp/htdocs/ci/application/config/database.php",
+		"/opt/lampp/htdocs/xampp/.htaccess",
+		"/opt/lampp/htdocs/app/.htaccess",
+		"/opt/lampp/htdocs/develop/wp-content/plugins/develop-plugin/develop-plugin.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/page.php",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/Getting Started/index.html",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/devidingIntoPartials/js/app.js",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/devidingIntoPartials/css/style.css",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/devidingIntoPartials/js/controllers.js",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/devidingIntoPartials/index.html",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/devidingIntoPartials/partials/list.html",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/devidingIntoPartials/partials/details.html",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/WorkingWithModels/js/controllers.js",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/WorkingWithModels/index.html",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/WorkingWithModels/css/style.css",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/angular/index.html",
+		"/home/bogdan/Desktop/Dropbox/learn/angularJS-learning/angular/js/controllers.js",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/inc/editor-style.css",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/functions.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/style.css",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/page-templates/page-nosidebar.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/layouts/no-sidebar.css",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/404.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/content-none.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/search.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/content-page.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/content-single.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/layouts/content-sidebar.css",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/content.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/archive.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/content-aside.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/inc/template-tags.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/index.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/single.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/comments.php",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/js/masonry-settings.js",
+		"/opt/lampp/htdocs/develop/wp-content/themes/my-simone/sidebar-footer.php",
+		"/home/bogdan/Desktop/ion.html",
+		"/home/bogdan/Desktop/test.htm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bootstrap",
+			"//$",
+			";\n",
+			"data",
+			"ul class",
+			" ",
+			"> ",
+			" ",
+			"name",
+			"\"  name",
+			"  ",
+			"name",
+			"\" ",
+			" ",
+			"type=\"radio\"",
+			"name",
+			"10.0",
+			"10.2",
+			"5.0",
+			"Media",
+			"10.1",
+			"1320",
+			"10.1",
+			"7.0",
+			"blockquote",
+			"widget"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "code_igniter_tutorial.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
