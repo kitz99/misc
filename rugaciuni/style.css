@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: Icons;
+    src: url(fonts/KR.TTF);
+}
+@font-face {
+	font-family: Headline;
+	src:url(fonts/FjordOne-Regular.ttf);
+}
+@font-face{
+	font-family: Title;
+	src: url(fonts/Kingthings.ttf);
+}
+@font-face{
+	font-family: Lato;
+	src: url(fonts/Lato-SemiboldItalic.ttf);
+}
+
+#Main-page{
+	background-image:url(images/main-bg.png);
+	background-repeat:no-repeat;
+}
+.header{
+	opacity:0.5;
+}
+.app-title{
+	font-family:Title;
+	font-size:1.5em !important;
+	padding-top:0px !important;
+	white-space: normal !important;
+}
+.paragraf{
+	font-family: Lato;
+	text-shadow:none !important;
+	padding-bottom: 22px;
+	color:white;
+}
+.main-list-div{
+	font-family:Headline;
+	font-size:1.1em !important;
+	color:#930;
+	white-space:normal !important;
+}
+.main-link-item{
+	font-family: Lato !important;
+	white-space: normal !important;
+}
+.main-link-item a {
+	padding-top: 15px !important;
+}
+.imagine-reprezentativa{
+	width: 50%;
+	height:auto;
+	padding: 2px;
+	border: #930 thin solid;
+	float:left;
+	margin-right: 15px;
+	margin-bottom: 5px;
+	margin-top: 17px;
+}
+.paragrafe-text{
+	font-family:Lato;
+}
+.paragrafe-text strong{
+	font-family: Headline;
+	color: #930;
+}
+@media (max-width: 321px) {
+	.app-title{
+		font-family:Title;
+		font-size:1em !important;
+	}
+	.imagine-reprezentativa{
+		width:25%;
+	}
+}
+
