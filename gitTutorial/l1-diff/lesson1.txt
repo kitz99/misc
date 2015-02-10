@@ -1,0 +1,22 @@
+========================== 
+====   Differences    ====
+==========================
+
+Windows: FC 
+		 syntax: fc file1.txt file2.txt
+Unix: diff
+	  syntax: diff -u file1.txt file2.txt
+	  		  -u = unified diff format
+	  		  <<see man diff for more details>>	
+
+git log --> log all the commits in a repo
+git log --stat --> shows statistics about each commit. Shows files that are modified and how much was modified each file.
+
+To see how many lines was added or removed to a specific commit, you need to do git diff between prev commit and commit you want.
+
+
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A: You can identify differences between versions of the same code, you can see what was added and what was removed, and you can focus just on that parts of the code that are different.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A: You can see your old chances in code, you can analyze the differences and find bugs much easier.
