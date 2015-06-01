@@ -6,7 +6,7 @@ class Heap(object):
 
 
 	def max_heapify(self, i):
-		l = 2 * i + 1
+		l = 2 * i + 2
 		r = 2 * i + 2
 		largest = i
 		if l < self.heap_size and self.elem[l] > self.elem[largest]:
